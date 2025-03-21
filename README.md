@@ -1,5 +1,9 @@
 # Integrating LLMs for Intelligent Chatbot Support in University Web Platforms
 
+![Uploading image.png…]()
+
+
+
 Nowadays, artificial intelligence has become an integral part of digital communication, transforming how institutions interact with users. 
 Universities, in particular, are leveraging AI-powered chatbots to improve accessibility, streamline information delivery, and enhance the student experience.
 In this proposed method, large language models (LLMs) are integrated in order to create an intelligent chatbot for university websites in order to facilitate the services to all the stakeholders of the university in an ease and efficient way.
