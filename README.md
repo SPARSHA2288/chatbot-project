@@ -1,6 +1,6 @@
 # Integrating LLMs for Intelligent Chatbot Support in University Web Platforms
+![image](https://github.com/user-attachments/assets/217283d7-66a9-4ee5-b93e-5793f7910d65)
 
-![Uploading image.png…]()
 
 
 
